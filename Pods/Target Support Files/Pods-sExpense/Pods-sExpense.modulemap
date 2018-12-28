@@ -1,0 +1,6 @@
+framework module Pods_sExpense {
+  umbrella header "Pods-sExpense-umbrella.h"
+
+  export *
+  module * { export * }
+}
